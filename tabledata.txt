@@ -1,0 +1,7 @@
+Dept1 Shoes 100 10 90
+Dept2 Dog 500 50.000 250.0 
+Dept4 Shit 20 5.000 19.0 
+Dept1 Comic 5.99 1.000 5.9301 
+Dept1 Comic 5.99 1.000 5.9301 
+Dept1 Comic 5.99 1.000 5.9301 
+Dept1 Sun 0 0.000 0.0 
